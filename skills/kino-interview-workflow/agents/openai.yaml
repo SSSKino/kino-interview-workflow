@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kino 采访剪辑工作流"
+  short_description: "多机位采访精剪、双语字幕、拼贴动画、品牌结尾与竖屏话题切片"
+  default_prompt: "使用 $kino-interview-workflow，按我的任务说明将采访制作成长片和双语竖屏切片，先核对目标项目、主音轨和最新版本。"

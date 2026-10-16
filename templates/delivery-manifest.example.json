@@ -1,0 +1,36 @@
+{
+  "exampleOnly": true,
+  "project": {"name": "TARGET_PROJECT", "id": null},
+  "clips": [
+    {
+      "label": "topic-01",
+      "revision": "v1",
+      "parentFile": null,
+      "file": null,
+      "sha256": null,
+      "timelineId": null,
+      "assetId": null,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "frames": null,
+      "durationSeconds": null,
+      "mainAudioGroup": null,
+      "audioFallbackRanges": [],
+      "generatedVoiceConsent": null,
+      "changes": [],
+      "checks": {
+        "projectOwnership": "not_checked",
+        "dialogueLogic": "not_checked",
+        "bilingualCaptions": "not_checked",
+        "visualFrames": "not_checked",
+        "voiceCaptionAnimationSync": "not_checked",
+        "manualListening": "not_checked",
+        "fullDecode": "not_checked",
+        "frameCountAndAudioDuration": "not_checked",
+        "previewHttp": "not_checked"
+      },
+      "previewUrl": null
+    }
+  ]
+}

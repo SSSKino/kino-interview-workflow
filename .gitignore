@@ -1,0 +1,16 @@
+# Private jobs and generated media belong outside the published workflow.
+jobs/
+output/
+media/
+private/
+.env
+.env.*
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4a
+*.chatcutproject/
+node_modules/
+.cache/
+__pycache__/
